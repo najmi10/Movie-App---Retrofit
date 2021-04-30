@@ -1,4 +1,4 @@
-# Movie-App - Retrofit
+# MovieApp-Retrofit
 # Apa itu API?
 API adalah singkatan dari Application Programming Interface yaitu sebuah software 
 yang memungkinkan para developer untuk mengintegrasikan dan mengizinkan dua aplikasi yang 
