@@ -29,3 +29,5 @@ mengakses REST API dengan proses sederhana (GET, POST, PUT, DELETE) retrofit jug
 mendukung berbagai macam format authentikasi via http, menambahkan header pada request, 
 menambahkan parameter serta mengirim data berupa image ke server.
 # Hasil Project
+![AltText](https://github.com/najmi10/Movie-App---Retrofit/blob/master/ss1.png)
+![AltText](https://github.com/najmi10/Movie-App---Retrofit/blob/master/ss2.png)
